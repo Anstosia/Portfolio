@@ -25,4 +25,4 @@
 
 **Статус проекта** : завершён 
 
-[Перейти к проекту](https://github.com/Anstosia/analysis_games/blob/main/analiz_games.ipynb) 
+[Перейти к проекту](https://github.com/Anstosia/yandex-practicum/blob/main/telecom/telecom.ipynb) 
